@@ -1,3 +1,3 @@
 # Hello
 
-Hi! My name is Jonathan Liu. This is a test. Pack my box with five dozen liquor jugs. 
+Hi! My name is Jonathan Liu. 君子求诸己，小人求诸人。 
